@@ -1,29 +1,17 @@
 # 📊 Interactive Sales Dashboard — Pure Formula, Zero Macro
 
-> A fully interactive Excel dashboard built under one strict 
-constraint: **no VBA, no macros, no Developer tab** — 
-completed in a single day. Every interactive behavior is 
-driven purely by Pivot Tables, formulas, and shape linking.
+> A fully interactive Excel dashboard built under one strict constraint: **no VBA, no macros, no Developer tab** — completed in a single day. Every interactive behavior is driven purely by Pivot Tables, formulas, and shape linking.
 
 ---
 
 ## The Constraint
 
-Most interactive Excel dashboards rely on VBA or macros to 
-handle dynamic UI behavior. I deliberately avoided this for 
-two practical reasons:
+Most interactive Excel dashboards rely on VBA or macros to handle dynamic UI behavior. I deliberately avoided this for two practical reasons:
 
-1. **Portability** — Macro-enabled files (.xlsm) are frequently 
-blocked by corporate email filters and cloud storage policies. 
-Staying in .xlsx format ensures the file opens anywhere, 
-without security warnings.
-2. **Transparency** — Formula-driven logic is auditable. 
-Anyone can trace the logic without needing to open 
-a VBA editor.
+1. **Portability** — Macro-enabled files (.xlsm) are frequently blocked by corporate email filters and cloud storage policies. Staying in .xlsx format ensures the file opens anywhere, without security warnings.
+2. **Transparency** — Formula-driven logic is auditable. Anyone can trace the logic without needing to open a VBA editor.
 
-The real challenge: delivering the same dynamic behavior 
-that most people solve with 10 lines of VBA — using only 
-what Excel gives you by default.
+The real challenge: delivering the same dynamic behavior that most people solve with 10 lines of VBA — using only what Excel gives you by default.
 
 ---
 
