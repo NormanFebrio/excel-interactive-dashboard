@@ -96,7 +96,7 @@ analytical tool, not just a summary view.
 ---
 
 ## Data Source
-(Superstore Dataset)[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final] — a widely used retail dataset commonly 
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) — a widely used retail dataset commonly 
 used for business intelligence and data visualization practice.
 
 ---
